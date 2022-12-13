@@ -16,3 +16,6 @@ The VariationalAutoencoderConvInterpretable in 'vae_conv_I_model.py' can also be
 See script test_vae for usage of the TimeVAE model. 
 
 Note that 'vae_base' script contains an abstract super-class.  It doesnt actually represent TimeVAE-Base. 
+
+
+Original repository: https://github.com/abudesai/timeVAE
